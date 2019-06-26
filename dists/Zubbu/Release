@@ -1,0 +1,20 @@
+Origin: Amzker
+Label: Amzux-repo
+Suite: stable
+Codename: Zubbu
+Date: Wed, 26 Jun 2019 08:14:17 UTC
+Architectures: amd64
+Components: main
+Description: Amzux-repo ,containing meta packages
+MD5Sum:
+ a7481236e9ba47b47d2915e5bea69453 429 main/binary-amd64/Packages
+ 881736485d2e65697e2eda4f869ffa46 318 main/binary-amd64/Packages.gz
+ 330af419df2fe48a5c4e6568fff5ea80 135 main/binary-amd64/Release
+SHA1:
+ 9d72c78e72c853492240bba20a6417370defa211 429 main/binary-amd64/Packages
+ 0abc2535237d783a7605facb061d06880a3d5cf5 318 main/binary-amd64/Packages.gz
+ 4d93563befd7e4438392d87633de67cc6dd7c1a7 135 main/binary-amd64/Release
+SHA256:
+ eb4fbd8597235254f16b6fd6a846cb60bb6979e1dbb183f4295c5a020652df90 429 main/binary-amd64/Packages
+ e3531ba0bc237c2515fa818d4fe342cee6d89bc59edeab2213fe45dc12c26650 318 main/binary-amd64/Packages.gz
+ ab6d78708f39fe1bfe22999cfd685a6c4e0fd4c296b4dc16ea75d6bcdb4ee1da 135 main/binary-amd64/Release

@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Amzker
+Label: Amzux-repo
+Architecture: amd64
+Description: Amzux-repo ,containing meta packages

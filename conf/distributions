@@ -1,0 +1,7 @@
+Origin: Amzker
+Label: Amzux-repo
+Suite: stable
+Codename: Zubbu
+Architectures: amd64
+Components: main
+Description: Amzux-repo ,containing meta packages 

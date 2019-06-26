@@ -1,0 +1,14 @@
+Package: update-23-6-2019
+Version: 0.1
+Architecture: amd64
+Maintainer: Amzker
+Homepage: http://github.com/amzux/
+Priority: important
+Section: stable
+Filename: pool/main/u/update-23-6-2019/update-23-6-2019_0.1_amd64.deb
+Size: 15120030
+SHA256: 5bb555f0450d6f409e6de125ce20c79d11ea98228b28ba37c038b7ac2c9fd927
+SHA1: df3b4b9222d610cf532063529e79bfef3b6c392e
+MD5sum: b4e90e9129d85e323d563debaefce74a
+Description: update of 23-6-2019
+
