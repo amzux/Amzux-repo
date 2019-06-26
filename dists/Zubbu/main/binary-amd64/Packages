@@ -1,3 +1,17 @@
+Package: amsnap
+Version: 0.1 
+Architecture: amd64 
+Maintainer: Amzker 
+Homepage: http://github.com/amzux
+Priority: important
+Section: stable
+Filename: pool/main/a/amsnap/amsnap_0.1_amd64.deb
+Size: 65360
+SHA256: 59db95826d4f9d7a0e5567044b78b320c770fd97f4f04fcdf7da41c4e5aa9891
+SHA1: 56cdcd3681529aefb71749633043de6d40dc1e02
+MD5sum: 9df81b474887f8add231e51e1109c376
+Description: take screenshots of custom areas
+
 Package: console
 Version: 0.3 
 Architecture: amd64 

@@ -2,19 +2,19 @@ Origin: Amzker
 Label: Amzux-repo
 Suite: stable
 Codename: Zubbu
-Date: Wed, 26 Jun 2019 10:21:02 UTC
+Date: Wed, 26 Jun 2019 11:57:15 UTC
 Architectures: amd64
 Components: main
 Description: Amzux-repo ,containing meta packages
 MD5Sum:
- c876cc33b9fb28e02cb983cf7ca20422 909 main/binary-amd64/Packages
- 0507463ddff07db082be6ccead515cf7 528 main/binary-amd64/Packages.gz
+ 77d8abccf96d0c18ca6ab01a69866a1a 1320 main/binary-amd64/Packages
+ 0b3d30684f5308a5aa5b85e39b036540 668 main/binary-amd64/Packages.gz
  330af419df2fe48a5c4e6568fff5ea80 135 main/binary-amd64/Release
 SHA1:
- f91895e3929e219e6fc0116e4984e8df29424cfa 909 main/binary-amd64/Packages
- 44f654746065d46f9e5930bba1e5b8f9c7d9a8a8 528 main/binary-amd64/Packages.gz
+ e8e11517beb741f2ecaa42955f46c96c1340b074 1320 main/binary-amd64/Packages
+ b26f8dc9752f5772c4889e7dedbeaa683fca9642 668 main/binary-amd64/Packages.gz
  4d93563befd7e4438392d87633de67cc6dd7c1a7 135 main/binary-amd64/Release
 SHA256:
- 58e9343a39d2ea19892d83b4f707b81f7fb024dd1f71a6d1e901e3536ffd74cd 909 main/binary-amd64/Packages
- e0a813d469ac494e63318c14a86e547ac54bf443856ba7e5c05684236f21605d 528 main/binary-amd64/Packages.gz
+ 338a2935304337028882199cedfc7894cadc9b64b55735c88d5f7a0cc26f6860 1320 main/binary-amd64/Packages
+ bee5a273004bdf1e212bc7aab8593fe7e2126de75fdd9761f0ec840e4f93aefb 668 main/binary-amd64/Packages.gz
  ab6d78708f39fe1bfe22999cfd685a6c4e0fd4c296b4dc16ea75d6bcdb4ee1da 135 main/binary-amd64/Release
