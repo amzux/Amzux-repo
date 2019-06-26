@@ -1,3 +1,17 @@
+Package: console
+Version: 0.3 
+Architecture: amd64 
+Maintainer: Amzker 
+Homepage: http://github.com/amzux/console
+Priority: critical
+Section: testing
+Filename: pool/main/c/console/console_0.3_amd64.deb
+Size: 6767514
+SHA256: 735ea595471583ee3e2b5b85213dd11b1c20df1fae5f191fd3789c60ca49d252
+SHA1: 68221a7e6fe2414ae1cce489a97634a1dd4c3a8f
+MD5sum: 208218734a5da514582c60da6cde7e8d
+Description: Console is Amzux Extra shell for making work easy and fun ,more info at amzux.site11.com
+
 Package: update-23-6-2019
 Version: 0.1
 Architecture: amd64
