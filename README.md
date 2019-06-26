@@ -1,2 +1,0 @@
-# Amzux-repo
-apt repo
