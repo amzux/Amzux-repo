@@ -13,6 +13,23 @@ SHA1: 04a52d147b492149e34906026d2073a1c2d2cddd
 MD5sum: aaf8eca70fe6d71a7af6a661ed8d8ce5
 Description: snap screenshot and copy  
 
+Package: anydesk
+Version: 5.1.1
+Architecture: amd64
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.20.1), libstdc++6 (>= 4.1.1), libx11-6, libxcb-shm0, libxcb1, libpango1.0-0, libcairo2, libxrandr2 (>= 1.3), libx11-xcb1, libxtst6, libxfixes3, libxdamage1, libgtkglext1
+Recommends: libglx-mesa0
+Homepage: https://www.anydesk.com/
+Installed-Size: 11474
+Maintainer: Markus Plichta <mplichta@anydesk.com>
+Priority: optional
+Section: network
+Filename: pool/main/a/anydesk/anydesk_5.1.1_amd64.deb
+Size: 4491454
+SHA256: 7b90303a65c33f1aa9744626662da9f00c373df1b617603aa1a070a3252c540a
+SHA1: c84d611e589c6b8d509ee455f35213f8ba7817d9
+MD5sum: 32f6c378194f0de88a759aa651a3b748
+Description: AnyDesk is the fastest remote desktop software on the market. It allows for new usage scenarios and applications that have not been possible with current remote desktop software.
+
 Package: console
 Version: 0.3 
 Architecture: amd64 
