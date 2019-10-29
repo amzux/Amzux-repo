@@ -21,10 +21,10 @@ Homepage: http://github.com/amzux
 Priority: important
 Section: stable
 Filename: pool/main/a/amzy/amzy_0.1_all.deb
-Size: 1044
-SHA256: 1235082dc0073e2521f4cff7da890f283a9ab426a9d3174b83b22d301153f4cf
-SHA1: ae69de4047fc85c89644f3a6079fe2bdb01531cd
-MD5sum: dc5b70f817b5776f47a18e53d96d5f14
+Size: 1356
+SHA256: 1853d2582240d28c5d3057e7618fd2a406abb1ae3eda8785a209918b3188bc62
+SHA1: 0e32e9767d73db2968ba1fb309779c5f50ace955
+MD5sum: 9ac4a6a212da3ba72f3e1322af23fa0e
 Description: package-manager
 
 Package: console
